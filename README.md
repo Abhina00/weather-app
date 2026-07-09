@@ -2,9 +2,6 @@
 
 A React + Material UI weather app with login, city search, live weather details, and per-user search history.
 
-![React](https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=black)
-![MUI](https://img.shields.io/badge/MUI-5.15-007FFF?logo=mui&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
@@ -15,12 +12,6 @@ A React + Material UI weather app with login, city search, live weather details,
 - 🌡️ **Weather details** — temperature, feels-like, humidity, wind, pressure, condition icon
 - 🕒 **Search history** — per-user, persisted in `localStorage`, click to re-search, delete/clear individual entries
 
-## 📸 Screenshots
-
-> Add your own screenshots here after running the app, e.g.:
->
-> `![Login screen](docs/screenshot-login.png)`
-> `![Dashboard](docs/screenshot-dashboard.png)`
 
 ## 🛠️ Tech Stack
 
